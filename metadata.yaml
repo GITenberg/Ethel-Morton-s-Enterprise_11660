@@ -1,0 +1,32 @@
+_repo: Ethel-Morton-s-Enterprise_11660
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Mabell S. C. (Mabell Shippie Clarke)
+    aliases:
+    - Pelton, Mabell Shippie Clarke
+    - Smith, Mabell Shippie Clarke
+    birthdate: 1864
+    deathdate: 1942
+    gutenberg_agent_id: '6118'
+    url: http://www.gutenberg.org/2009/agents/6118
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Businesswomen -- Juvenile fiction'
+- !lcsh 'Gardening -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Missing children -- Juvenile fiction'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- GITenberg
+title: Ethel Morton's Enterprise
+url: http://www.gutenberg.org/ebooks/11660
