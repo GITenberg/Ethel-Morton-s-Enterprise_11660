@@ -1,5 +1,8 @@
 _repo: Ethel-Morton-s-Enterprise_11660
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Smith, Mabell S. C. (Mabell Shippie Clarke)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '6118'
     url: http://www.gutenberg.org/2009/agents/6118
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11660#Ethel-Morton-s-Enterprise
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
